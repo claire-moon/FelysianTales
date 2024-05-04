@@ -1,2 +1,2 @@
-<h1>Felysian Tales</h1>
+Felysian Tales
 A Noctis IV travelogue.
